@@ -1,0 +1,13 @@
+李逵 class1 90
+宋江 class2 56
+卢俊义 class1 87
+林冲 class1 76
+孙二娘 class2 88
+扈三娘 class1 95
+阮小二 class1 74
+阮小七 class2 87
+武大郎 class2 67
+武松 class2 77
+鲁智深 class1 98
+欧鹏 class2 96
+燕青 class2 88
